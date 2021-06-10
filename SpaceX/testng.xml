@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="APPLICATION REST API VALIDATION">
+
+	<test name="LauchLatest">
+		<classes>
+			<class name="com.apps.testcases.GetLauchLatest"></class>
+		</classes>
+	</test>
+		
+	
+
+	
+
+</suite>
